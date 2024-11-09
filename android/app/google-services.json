@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "766846864488",
+    "project_id": "medaspace-b03f4",
+    "storage_bucket": "medaspace-b03f4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:766846864488:android:e56c69fcf459ac483fffdd",
+        "android_client_info": {
+          "package_name": "com.example.my_e_commerce"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSWfwA8q8DY3gSte51_CVoeLkIfn0ZFbA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
